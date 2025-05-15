@@ -49,7 +49,7 @@
         "klaw": "^3.0.0",
         "lottie-react": "^2.4.0",
         "sirv-cli": "^1.0.14",
-        "vite": "^3.0.5"
+        "vite": "^4.5.14"
     },
     "devDependencies": {
         "@babel/plugin-proposal-decorators": "^7.17.9",
@@ -128,7 +128,7 @@
         "preact-context-menu": "0.4.1",
         "preact-i18n": "^2.4.0-preactx",
         "prettier": "^2.3.1",
-        "prismjs": "^1.28.0",
+        "prismjs": "^1.30.0",
         "qrcode.react": "^3.0.2",
         "react-beautiful-dnd": "^13.1.0",
         "react-device-detect": "2.2.2",
@@ -148,7 +148,7 @@
         "revolt.js": "6.0.17",
         "rimraf": "^3.0.2",
         "sass": "^1.35.1",
-        "semver": "^7.3.7",
+        "semver": "^7.5.2",
         "shade-blend-color": "^1.0.0",
         "slate": "^0.81.1",
         "slate-history": "^0.66.0",
